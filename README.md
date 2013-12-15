@@ -5,6 +5,7 @@ This the [docpad][] site of [jsldd.org][].
 ## Install
 
     npm install
+    bower install
 
 ## Usage
 
