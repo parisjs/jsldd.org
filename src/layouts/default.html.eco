@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title><%= @document.title %> - JSLDD</title>
+        <%- @getBlock("meta").toHTML() %>
+        <%- @getBlock("styles").add(["/styles/default.css"]).toHTML() %>
+    </head>
+    <body>
+        <%- @content %>
+        <%- @getBlock("scripts").toHTML() %>
+    </body>
+</html>
