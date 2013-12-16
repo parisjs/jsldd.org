@@ -9,5 +9,10 @@
     <body>
         <%- @content %>
         <%- @getBlock("scripts").toHTML() %>
+        <footer class="row">
+          <div class="large-12 columns text-center">
+            <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>.</p>
+          </div>
+        </footer>
     </body>
 </html>
