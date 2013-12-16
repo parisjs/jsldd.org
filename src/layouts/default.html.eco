@@ -11,7 +11,7 @@
         <%- @getBlock("scripts").toHTML() %>
         <footer class="row">
           <div class="large-12 columns text-center">
-            <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>.</p>
+            <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>. Ce site est librement modifiable sur <a href="https://github.com/parisjs/jsldd.org">Github</a>.</p>
           </div>
         </footer>
     </body>
