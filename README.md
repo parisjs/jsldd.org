@@ -21,7 +21,7 @@ Generate the static site:
 
 ## License
 
-WTPL
+See the [LICENSE](LICENSE) file.
 
 [docpad]: http://docpad.org/
 [jsldd.org]: http://jsldd.org/
