@@ -15,7 +15,9 @@ And then point your browser to http://localhost:9778/.
 
 ## Deploy
 
-TODO
+Generate the static site:
+
+    docpad deploy-ghpages --env static
 
 ## License
 

@@ -10,7 +10,8 @@
     "docpad": "~6.57.1",
     "docpad-plugin-eco": "~2.0.2",
     "docpad-plugin-livereload": "~2.5.3",
-    "docpad-plugin-nodesass": "~2.1.1"
+    "docpad-plugin-nodesass": "~2.1.1",
+    "docpad-plugin-ghpages": "~2.4.1"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
