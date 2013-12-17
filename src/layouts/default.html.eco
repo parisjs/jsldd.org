@@ -1,18 +1,18 @@
 <!DOCTYPE HTML>
 <html lang="fr">
-    <head>
-        <meta charset="utf-8">
-        <title><%= @document.title %> - JSLDD</title>
-        <%- @getBlock("meta").toHTML() %>
-        <%- @getBlock("styles").add(["/styles/default.css"]).toHTML() %>
-    </head>
-    <body>
-        <%- @content %>
-        <%- @getBlock("scripts").toHTML() %>
-        <footer class="row">
-          <div class="large-12 columns text-center">
-            <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>. Ce site est librement modifiable sur <a href="https://github.com/parisjs/jsldd.org">Github</a>.</p>
-          </div>
-        </footer>
-    </body>
+  <head>
+    <meta charset="utf-8">
+    <title><%= @document.title %> - JSLDD</title>
+    <%- @getBlock("meta").toHTML() %>
+    <%- @getBlock("styles").add(["/styles/default.css"]).toHTML() %>
+  </head>
+  <body>
+    <%- @content %>
+    <%- @getBlock("scripts").toHTML() %>
+    <footer class="row">
+      <div class="large-12 columns text-center">
+        <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>. Ce site est librement modifiable sur <a href="https://github.com/parisjs/jsldd.org">Github</a>.</p>
+      </div>
+    </footer>
+  </body>
 </html>
