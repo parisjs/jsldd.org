@@ -18,6 +18,8 @@ docpadConfig = {
       moment(date).format(format)
     dateIso: (date) ->
       moment(date).toISOString()
+    probableNextEditionDate: ->
+      moment(@getCollection('previousEditions').at(0).get('date')).add('M', 1).toISOString();
 
   collections:
     editions: ->
