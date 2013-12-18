@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<main class="row">
+  <div class="large-12 columns">
+    <h2><%= @document.title %></h2>
+    <p><%= @document.title %> c'est <time datetime="<%= @document.date %>"><%= @formatDate(@document.date) %></time> chez <%= @document.location %></p>
+    <%- @content %>
+  </div>
+</main>

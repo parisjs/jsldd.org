@@ -11,7 +11,8 @@
     "docpad-plugin-eco": "~2.0.2",
     "docpad-plugin-livereload": "~2.5.4",
     "docpad-plugin-nodesass": "~2.1.1",
-    "docpad-plugin-ghpages": "~2.4.1"
+    "docpad-plugin-ghpages": "~2.4.1",
+    "moment": "~2.4.0"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
