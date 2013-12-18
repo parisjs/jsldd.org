@@ -3,6 +3,7 @@
   <title><%= @site.title %></title>
   <id>jsldd.org</id>
   <link href="<%= @site.url %>" rel="alternate" type="text/html" />
+  <link href="<%= @site.url %>/feed.xml" rel="self" type="application/atom+xml" />
   <updated><%= @dateIso(@site.date) %></updated>
   <author>
     <name><%= @site.title %></name>
