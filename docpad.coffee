@@ -3,6 +3,8 @@
 
 moment = require 'moment'
 
+moment.lang 'fr'
+
 # Define the DocPad Configuration
 docpadConfig = {
   templateData:
@@ -11,7 +13,7 @@ docpadConfig = {
       long_title: "Javascript Les Doigts Dehors"
 
     getPreparedTitle: -> if @document.title then "#{@document.title} - #{@site.title}" else @site.long_title
-    formatDate: (date, format="MMMM DD, YYYY") ->
+    formatDate: (date, format="DD MMMM YYYY") ->
       moment(date).format(format)
 }
 
