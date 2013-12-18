@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title><%= @getPreparedTitle() %></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/feed.xml" rel="alternate" title="Les prochaines éditions" type="application/atom+xml" />
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/styles/default.css"]).toHTML() %>
   </head>
