@@ -15,6 +15,10 @@ docpadConfig = {
     getPreparedTitle: -> if @document.title then "#{@document.title} - #{@site.title}" else @site.long_title
     formatDate: (date, format="DD MMMM YYYY") ->
       moment(date).format(format)
+
+  plugins:
+    nodesass:
+      debugInfo: false
 }
 
 # Export the DocPad Configuration
