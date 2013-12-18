@@ -7,8 +7,8 @@
     "npm": "1.3"
   },
   "dependencies": {
-    "docpad": "~6.57.2",
-    "docpad-plugin-eco": "~2.0.2",
+    "docpad": "~6.58.2",
+    "docpad-plugin-eco": "~2.0.3",
     "docpad-plugin-livereload": "~2.5.4",
     "docpad-plugin-nodesass": "~2.1.1",
     "docpad-plugin-ghpages": "~2.4.1",
