@@ -9,12 +9,19 @@ moment.lang 'fr'
 docpadConfig = {
   templateData:
     site:
+      url: "http://jsldd.org"
       title: "JSLDD"
       long_title: "Javascript Les Doigts Dehors"
 
     getPreparedTitle: -> if @document.title then "#{@document.title} - #{@site.title}" else @site.long_title
     formatDate: (date, format="DD MMMM YYYY") ->
       moment(date).format(format)
+    dateIso: (date) ->
+      moment(date).toISOString()
+
+  collections:
+    editions: ->
+      @getCollection('html').findAllLive({layout: 'edition'}, [date:-1])
 
   plugins:
     nodesass:

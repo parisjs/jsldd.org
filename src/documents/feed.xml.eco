@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><%= @site.title %></title>
+  <id>jsldd.org</id>
+  <link href="<%= @site.url %>" rel="alternate" type="text/html" />
+  <updated><%= @dateIso(@site.date) %></updated>
+  <author>
+    <name><%= @site.title %></name>
+  </author>
+
+  <% for edition in @getCollection("editions").toJSON(): %>
+  <entry>
+    <title><%= edition.title %></title>
+    <id><%= edition.id %></id>
+    <link href="<%= @site.url %><%= edition.url %>" />
+    <summary><%= edition.title %> c'est le <%= @formatDate(edition.date) %> chez <%= edition.location %></summary>
+    <updated><%= @dateIso(edition.date) %></updated>
+  </entry>
+  <% end %>
+</feed>
