@@ -22,6 +22,10 @@ docpadConfig = {
   collections:
     editions: ->
       @getCollection('html').findAllLive({layout: 'edition'}, [date:-1])
+    previousEditions: ->
+      @getCollection('html').findAllLive({layout: 'edition', date: $lt: moment()}, [date:-1])
+    nextEditions: ->
+      @getCollection('html').findAllLive({layout: 'edition', date: $gt: moment()})
 
   plugins:
     nodesass:

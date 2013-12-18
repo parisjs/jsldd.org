@@ -24,20 +24,24 @@ layout: default
   <div class="large-5 columns">
     <div class="panel">
       <h2>Participer</h2>
-
-      <p>La prochaine séance, c'est en janvier 2014 (mais on n'a pas encore exactement la date)</p>
-      <div id="mc_embed_signup">
-        <form action="http://parisjs.us7.list-manage.com/subscribe/post?u=0420ec963de31bc2b19c12999&amp;id=2a6abae75d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-          <label for="mce-EMAIL">Pour être tenu au courant des prochaines séances: </label>
-          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse email" required>
-          <div style="position: absolute; left: -5000px;"><input type="text" name="b_0420ec963de31bc2b19c12999_2a6abae75d" value=""></div>
-          <input type="submit" value="Tenez moi au au courant" name="subscribe" id="mc-embedded-subscribe" class="tiny button">
-        </form>
-      </div>
+      <% if @getCollection("nextEditions").length > 0: %>
+        <% edition = @getCollection("nextEditions").at(0).toJSON() %>
+        <p>Le <time datetime="<%= edition.date %>"><%= @formatDate(edition.date) %></time> c'est <a href="<%= edition.url %>"><%= edition.title %></a></p>
+      <% else: %>
+        <p>La prochaine séance, c'est en janvier 2014 (mais on n'a pas encore exactement la date)</p>
+        <div id="mc_embed_signup">
+          <form action="http://parisjs.us7.list-manage.com/subscribe/post?u=0420ec963de31bc2b19c12999&amp;id=2a6abae75d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <label for="mce-EMAIL">Pour être tenu au courant des prochaines séances: </label>
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse email" required>
+            <div style="position: absolute; left: -5000px;"><input type="text" name="b_0420ec963de31bc2b19c12999_2a6abae75d" value=""></div>
+            <input type="submit" value="Tenez moi au au courant" name="subscribe" id="mc-embedded-subscribe" class="tiny button">
+          </form>
+        </div>
+      <% end %>
     </div>
     <h3>Les précédentes éditions</h3>
     <ul class="no-bullet">
-      <% for edition in @getCollection("editions").toJSON(): %>
+      <% for edition in @getCollection("previousEditions").toJSON(): %>
         <li><a href="<%= edition.url %>"><%= edition.title %></a></li>
       <% end %>
     </ul>
