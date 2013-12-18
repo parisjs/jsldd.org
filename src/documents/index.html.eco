@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<main class="row">
+  <div class="large-7 columns">
+
+    <h2>C'est quoi ?</h2>
+
+    <p>Les Doigts Dehors, ce sont des ateliers pratiques pour progresser en JavaScript.</p>
+
+    <p>Ils ont lieu une fois par mois, à la boutique de <a href="http://ut7.fr/">/ut7</a>.</p>
+
+    <p>Le format original est mis au point et encadré par Emmanuel Gaillot, François de Metz, Jonathan Perret et Raphaël Pierquin.</p>
+
+    <p>Pendant l'atelier, vous pourrez réaliser relever 2 mini défis de 45 minutes, que vous aurez fixé vous mêmes, ou aider d'autres à le faire.</p>
+
+    <h2>Ce qu'ils en disent</h2>
+
+    <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/search?q=%23jsldd&amp;src=hash">#jsldd</a> soirée très intéressante avec de bonnes idées et de bonnes personnes. Expérience a renouveler.</p>&mdash; Kajan Sivaramalingam (@KajanSiva) <a href="https://twitter.com/KajanSiva/statuses/319187362045378560">April 2, 2013</a></blockquote>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+
+  <div class="large-5 columns">
+    <div class="panel">
+      <h2>Participer</h2>
+
+      <p>La prochaine séance, c'est en janvier 2014 (mais on n'a pas encore exactement la date)</p>
+      <div id="mc_embed_signup">
+        <form action="http://parisjs.us7.list-manage.com/subscribe/post?u=0420ec963de31bc2b19c12999&amp;id=2a6abae75d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <label for="mce-EMAIL">Pour être tenu au courant des prochaines séances: </label>
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse email" required>
+          <div style="position: absolute; left: -5000px;"><input type="text" name="b_0420ec963de31bc2b19c12999_2a6abae75d" value=""></div>
+          <input type="submit" value="Tenez moi au au courant" name="subscribe" id="mc-embedded-subscribe" class="tiny button">
+        </form>
+      </div>
+    </div>
+    <h3>Les précédentes éditions</h3>
+    <ul class="no-bullet">
+      <% for edition in @getCollection("editions").toJSON(): %>
+        <li><a href="<%= edition.url %>"><%= edition.title %></a></li>
+      <% end %>
+    </ul>
+  </div>
+</main>
