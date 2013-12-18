@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="row">
-  <div class="large-7 columns">
+  <div class="medium-7 columns">
 
     <h2>C'est quoi ?</h2>
 
@@ -21,7 +21,7 @@ layout: default
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
-  <div class="large-5 columns">
+  <div class="medium-5 columns">
     <div class="panel">
       <h2>Participer</h2>
       <% if @getCollection("nextEditions").length > 0: %>

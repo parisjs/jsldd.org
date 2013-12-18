@@ -10,14 +10,14 @@
   </head>
   <body>
     <header class="row">
-      <div class="large-12 columns">
+      <div class="medium-12 columns">
         <h1><a href="/"><%= @site.title %></a></h1>
       </div>
     </header>
     <%- @content %>
     <%- @getBlock("scripts").toHTML() %>
     <footer class="row">
-      <div class="large-12 columns text-center">
+      <div class="medium-12 columns text-center">
         <p>jsldd est une initiative <a href="http://parisjs.org/">paris.js</a>. Ce site est librement modifiable sur <a href="https://github.com/parisjs/jsldd.org">Github</a>.</p>
       </div>
     </footer>
