@@ -2,14 +2,14 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8">
-    <title><%= @document.title %> - JSLDD</title>
+    <title><%= @getPreparedTitle() %></title>
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/styles/default.css"]).toHTML() %>
   </head>
   <body>
     <header class="row">
       <div class="large-12 columns">
-        <h1>JSLDD</h1>
+        <h1><%= @site.title %></h1>
       </div>
     </header>
     <%- @content %>
