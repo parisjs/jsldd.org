@@ -1,13 +1,13 @@
 @import "settings";
 
-@import "../../files/bower/foundation/scss/foundation/components/global";
-@import "../../files/bower/foundation/scss/foundation/components/grid";
-@import "../../files/bower/foundation/scss/foundation/components/visibility";
-@import "../../files/bower/foundation/scss/foundation/components/type";
-@import "../../files/bower/foundation/scss/foundation/components/buttons";
-@import "../../files/bower/foundation/scss/foundation/components/forms";
-@import "../../files/bower/foundation/scss/foundation/components/keystrokes";
-@import "../../files/bower/foundation/scss/foundation/components/panels";
+@import "../../../bower_components/foundation/scss/foundation/components/global";
+@import "../../../bower_components/foundation/scss/foundation/components/grid";
+@import "../../../bower_components/foundation/scss/foundation/components/visibility";
+@import "../../../bower_components/foundation/scss/foundation/components/type";
+@import "../../../bower_components/foundation/scss/foundation/components/buttons";
+@import "../../../bower_components/foundation/scss/foundation/components/forms";
+@import "../../../bower_components/foundation/scss/foundation/components/keystrokes";
+@import "../../../bower_components/foundation/scss/foundation/components/panels";
 
 .google-form {
   min-height: 400px;

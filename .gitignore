@@ -1,4 +1,4 @@
-node_modules
-out
-.docpad.db
-src/files/bower
+/node_modules
+/out
+/.docpad.db
+/bower_components
