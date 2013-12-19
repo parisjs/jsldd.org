@@ -22,9 +22,10 @@ layout: default
   </div>
 
   <div class="medium-5 columns">
-    <div class="panel">
+    <% hasNext = @getCollection("nextEditions").length > 0 %>
+    <div class="panel <%= "callout" if hasNext %> ">
       <h2>Participer</h2>
-      <% if @getCollection("nextEditions").length > 0: %>
+      <% if hasNext: %>
         <% edition = @getCollection("nextEditions").at(0).toJSON() %>
         <p>Le <time datetime="<%= edition.date %>"><%= @formatDate(edition.date) %></time> c'est <a href="<%= edition.url %>"><%= edition.title %></a></p>
       <% else: %>
