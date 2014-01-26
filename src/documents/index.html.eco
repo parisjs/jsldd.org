@@ -41,7 +41,7 @@ layout: default
       <h2>Participer</h2>
       <% if hasNext: %>
         <% edition = @getCollection("nextEditions").at(0).toJSON() %>
-        <p>Le <time datetime="<%= edition.date %>"><%= @formatDate(edition.date) %></time> c'est <a href="<%= edition.url %>"><%= edition.title %></a></p>
+        <p>Le <time datetime="<%= @dateIso(edition.date) %>"><%= @formatDate(edition.date) %></time> c'est <a href="<%= edition.url %>"><%= edition.title %></a></p>
       <% else: %>
         <p>La prochaine séance, c'est en <%= @formatDate(@probableNextEditionDate(), 'MMMM YYYY') %> (mais on n'a pas encore exactement la date)</p>
         <div id="mc_embed_signup">
