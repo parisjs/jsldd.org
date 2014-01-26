@@ -17,5 +17,9 @@
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
     "start": "node_modules/docpad/bin/docpad-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parisjs/jsldd.org.git"
   }
 }
