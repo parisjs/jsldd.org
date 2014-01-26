@@ -14,7 +14,7 @@ And then point your browser to http://localhost:9778/.
 
 ## Deploy
 
-Generate the static site:
+Generate the static site and deploy it on github page:
 
     ./script/deploy
 
