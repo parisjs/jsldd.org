@@ -4,12 +4,11 @@ This the [docpad][] site of [jsldd.org][].
 
 ## Install
 
-    npm install
-    bower install
+    ./script/bootstrap
 
 ## Usage
 
-    docpad run
+    ./script/server
 
 And then point your browser to http://localhost:9778/.
 
@@ -17,7 +16,7 @@ And then point your browser to http://localhost:9778/.
 
 Generate the static site:
 
-    docpad deploy-ghpages --env static
+    ./script/deploy
 
 ## License
 
