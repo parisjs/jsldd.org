@@ -3,9 +3,9 @@ layout: default
 ---
 
 <main class="row">
-  <div class="medium-12 columns">
-    <h2><%= @document.title %></h2>
-    <p><%= @document.title %> c'est le <time datetime="<%= @dateIso(@document.date) %>"><%= @formatDate(@document.date) %></time> chez <%= @document.location %></p>
+  <div class="medium-12 columns vevent">
+    <h2 class="summary"><%= @document.title %></h2>
+    <p><%= @document.title %> c'est le <time class="dtstart" datetime="<%= @dateIso(@document.date) %>"><%= @formatDate(@document.date) %></time> chez <span class="location"><%= @document.location %></span></p>
     <%- @content %>
   </div>
 </main>
