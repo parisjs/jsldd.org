@@ -5,15 +5,29 @@ layout: default
 <main class="row">
   <div class="medium-7 columns">
 
-    <h2>C'est quoi ?</h2>
+    <h3>C'est quoi ?</h3>
 
-    <p>Les Doigts Dehors, ce sont des ateliers pratiques pour progresser en JavaScript.</p>
+    <p>JavaScript Les Doigts Dehors, ce sont des réunions pratiques pour progresser à plusieurs en JavaScript.</p>
 
-    <p>Ils ont lieu une fois par mois, à la boutique de <a href="http://ut7.fr/">/ut7</a>.</p>
+    <h3>Pour qui ?</h3>
+    <p>Pour les débutant ou experts, qui ont besoin de pratiquer pour progresser, ou qui aiment transmettre ce qu'il savent déjà.
 
-    <p>Le format original est mis au point et encadré par Emmanuel Gaillot, François de Metz, Jonathan Perret et Raphaël Pierquin.</p>
+    <p>En particulier, si souhaitez partager avec vos amis, venez avec eux.</p>
 
-    <p>Pendant l'atelier, vous pourrez réaliser relever 2 mini défis de 45 minutes, que vous aurez fixé vous mêmes, ou aider d'autres à le faire.</p>
+    <h3>Apprendre quoi ?</h3>
+    <p>Tout ce qui vous intéresse, pourvu que ça soit en JavaScript et que ça passe par la pratique. C'est vous qui décidez de la direction dans laquelle vous voulez progresser.</p>
+    <p>Il y aura des gens expérimentés qui pourront vous aider.</p>
+
+    <h3>Où et quand ?</h3>
+    <p>Une fois par mois, le soir, à la boutique de <a href="http://ut7.fr/">/ut7</a>.</p>
+
+    <h3>Que va-t-il se passer ?</h3>
+    <p>Pendant la soirée, vous pourrez relever 2 mini défis de 45 minutes, que vous aurez fixé vous même, ou aider d'autres à le faire.</p>
+
+    <p>Entre les 2 défis, les participants partagent un repas.</p>
+
+    <h3>Par qui ?</h3>
+    <p>Le format original est mis au point et encadré par François de Metz et les membres de <a href="http://ut7.fr">/ut7</a>.</p>
 
     <h2>Ce qu'ils en disent</h2>
 
