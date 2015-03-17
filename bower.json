@@ -1,6 +1,6 @@
 {
   "name": "jsldd",
   "dependencies": {
-    "foundation": "~5.0.2"
+    "foundation": "~5.5.1"
   }
 }
