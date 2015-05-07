@@ -10,6 +10,10 @@ This the [docpad][] site of [jsldd.org][].
 
     ./script/server
 
+ou
+
+    npm-exec docpad run
+
 And then point your browser to http://localhost:9778/.
 
 ## Deploy
