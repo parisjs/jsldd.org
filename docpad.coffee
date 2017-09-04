@@ -19,7 +19,8 @@ docpadConfig = {
     dateIso: (date) ->
       moment(date).toISOString()
     probableNextEditionDate: ->
-      moment(@getCollection('previousEditions').at(0).get('date')).add('M', 1).toISOString();
+      oneMonthAfterLastEdition = moment(@getCollection('previousEditions').at(0).get('date')).add('M', 1)
+      if oneMonthAfterLastEdition.toDate() > new Date() then oneMonthAfterLastEdition.toISOString() else moment().toISOString()
 
   collections:
     editions: ->
