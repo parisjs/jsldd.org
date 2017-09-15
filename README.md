@@ -8,11 +8,7 @@ This the [docpad][] site of [jsldd.org][].
 
 ## Usage
 
-    ./script/server
-
-ou
-
-    npm-exec docpad run
+    npm start
 
 And then point your browser to http://localhost:9778/.
 
