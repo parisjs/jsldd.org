@@ -1,4 +1,4 @@
-# LDD (ex JSLDDà
+# LDD (ex JSLDD)
 
 This the [docpad][] site of [jsldd.org][].
 
