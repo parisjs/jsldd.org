@@ -10,8 +10,8 @@ docpadConfig = {
   templateData:
     site:
       url: "http://jsldd.org"
-      title: "JSLDD"
-      long_title: "Javascript Les Doigts Dehors"
+      title: "LDD (ex JSLDD)"
+      long_title: "Les Doigts Dehors"
 
     getPreparedTitle: -> if @document.title then "#{@document.title} - #{@site.title}" else @site.long_title
     formatDate: (date, format="DD MMMM YYYY") ->
