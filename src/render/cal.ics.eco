@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+<%= @site.title %>
+<% for edition in @getCollection("editions").toJSON(): %>
+BEGIN:VEVENT
+UID:<%= edition.number %>
+DTSTART:<%= @dateICS(edition.date) %>
+DTSTAMP:<%= @dateICS(edition.date) %>
+DURATION:PT1H
+SUMMARY:<%= edition.title %>
+LOCATION:<%= edition.location %>
+END:VEVENT
+<% end %>
+END:VCALENDAR
