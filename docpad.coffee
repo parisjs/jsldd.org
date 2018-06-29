@@ -9,7 +9,7 @@ moment.lang 'fr'
 docpadConfig = {
   templateData:
     site:
-      url: "http://jsldd.org"
+      url: "https://lesdoigtsdehors.org/"
       title: "LDD (ex JSLDD)"
       long_title: "Les Doigts Dehors"
 
