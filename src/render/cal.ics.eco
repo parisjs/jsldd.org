@@ -10,6 +10,8 @@ DTSTAMP:<%= @dateICS(edition.date) %>
 DURATION:PT3H
 SUMMARY:<%= edition.title %>
 LOCATION:<%= edition.location %>
+DESCRIPTION:<%= edition.title %> c'est le <%= @formatDate(edition.date) %> chez <%= edition.location %>. Pour s'inscrire: <%= @site.url %><%= edition.url %>
+URL:<%= @site.url %><%= edition.url %>
 END:VEVENT
 <% end %>
 END:VCALENDAR
