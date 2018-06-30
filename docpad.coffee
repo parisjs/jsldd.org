@@ -7,6 +7,7 @@ moment.locale 'fr'
 
 # Define the DocPad Configuration
 docpadConfig = {
+  prompts: false  # default
   templateData:
     site:
       url: "https://lesdoigtsdehors.org/"
