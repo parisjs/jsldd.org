@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "8"
+script:
+- ./script/deploy
+env:
+  global:
+  - GH_REPO="parisjs/jsldd.org"
