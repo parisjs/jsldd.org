@@ -4,6 +4,8 @@ branches:
   - master
 node_js:
   - "8"
+before_script:
+- ./script/bootstrap
 script:
 - ./script/deploy
 env:
