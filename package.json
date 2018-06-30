@@ -7,6 +7,7 @@
     "npm": "2.7"
   },
   "dependencies": {
+    "bower": "^1.8.4",
     "docpad": "~6.79.4",
     "docpad-plugin-eco": "~2.3.0",
     "docpad-plugin-ghpages": "~2.7.0",
