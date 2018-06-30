@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:<%= edition.number %>
 DTSTART:<%= @dateICS(edition.date) %>
 DTSTAMP:<%= @dateICS(edition.date) %>
-DURATION:PT1H
+DURATION:PT3H
 SUMMARY:<%= edition.title %>
 LOCATION:<%= edition.location %>
 END:VEVENT
