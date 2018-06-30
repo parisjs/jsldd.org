@@ -10,7 +10,7 @@ docpadConfig = {
   prompts: false  # default
   templateData:
     site:
-      url: "https://lesdoigtsdehors.org/"
+      url: "https://lesdoigtsdehors.org"
       title: "LDD (ex JSLDD)"
       long_title: "Les Doigts Dehors"
 
