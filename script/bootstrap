@@ -1,4 +1,0 @@
-#!/bin/sh
-
-yarn
-node_modules/.bin/bower install

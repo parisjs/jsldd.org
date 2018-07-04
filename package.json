@@ -18,7 +18,8 @@
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
-    "start": "docpad run"
+    "start": "docpad run",
+    "postinstall": "bower install"
   },
   "repository": {
     "type": "git",

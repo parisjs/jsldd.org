@@ -4,11 +4,11 @@ This the [docpad][] site of [jsldd.org][].
 
 ## Install
 
-    ./script/bootstrap
+    yarn install
 
 ## Usage
 
-    npm start
+    yarn start
 
 And then point your browser to http://localhost:9778/.
 
