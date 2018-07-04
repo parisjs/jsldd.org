@@ -1,6 +1,6 @@
 # LDD (ex JSLDD)
 
-This the [docpad][] site of [jsldd.org][].
+This the [docpad][] site of [lesdoigtsdehors.org](https://lesdoigtsdehors.org).
 
 ## Install
 
@@ -14,7 +14,11 @@ And then point your browser to http://localhost:9778/.
 
 ## Deploy
 
-Generate the static site and deploy it on github page:
+Deploying means generating the static site and publishing it on github page.
+
+Deployement is done automaticaly after each commit by travis.
+
+However if you whant to do it by hand you can fireup this script:
 
     ./script/deploy
 
