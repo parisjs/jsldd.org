@@ -13,8 +13,7 @@
     "docpad-plugin-ghpages": "~2.7.0",
     "docpad-plugin-livereload": "~2.9.0",
     "docpad-plugin-nodesass": "~2.8.2",
-    "moment": "~2.22",
-    "yamljs": "jonathanperret/yaml.js#fix-tzoffset-generated"
+    "moment": "~2.22"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
