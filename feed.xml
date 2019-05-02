@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LDD (ex JSLDD)</title>
+  <id>jsldd.org</id>
+  <link href="https://lesdoigtsdehors.org" rel="alternate" type="text/html" />
+  <link href="https://lesdoigtsdehors.org/feed.xml" rel="self" type="application/atom+xml" />
+  <updated>2019-05-02T20:45:56.640Z</updated>
+  <author>
+    <name>LDD (ex JSLDD)</name>
+  </author>
+
+  
+  <entry>
+    <title>LDD #6 édition Raclette</title>
+    <id>6</id>
+    <link href="https://lesdoigtsdehors.org/ldd6.html" />
+    <summary>LDD #6 édition Raclette c'est le 27 mai 2019 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2019-05-27T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>LDD #5 édition Bergues</title>
+    <id>5</id>
+    <link href="https://lesdoigtsdehors.org/ldd5.html" />
+    <summary>LDD #5 édition Bergues c'est le 22 octobre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-10-22T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>LDD #4 édition Emmental</title>
+    <id>4</id>
+    <link href="https://lesdoigtsdehors.org/ldd4.html" />
+    <summary>LDD #4 édition Emmental c'est le 02 octobre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-10-02T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>LDD #3 édition Fouchtra</title>
+    <id>3</id>
+    <link href="https://lesdoigtsdehors.org/ldd3.html" />
+    <summary>LDD #3 édition Fouchtra c'est le 17 septembre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-09-17T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>LDD #2 édition Chèvreton</title>
+    <id>2</id>
+    <link href="https://lesdoigtsdehors.org/ldd2.html" />
+    <summary>LDD #2 édition Chèvreton c'est le 27 août 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-08-27T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>LDD #1 édition Rouelle</title>
+    <id>1</id>
+    <link href="https://lesdoigtsdehors.org/ldd1.html" />
+    <summary>LDD #1 édition Rouelle c'est le 23 juillet 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-07-23T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #50 édition Maroilles.js</title>
+    <id>50</id>
+    <link href="https://lesdoigtsdehors.org/jsldd50.html" />
+    <summary>JSLDD #50 édition Maroilles.js c'est le 23 avril 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-04-23T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #49 édition Fontainebleau.js</title>
+    <id>49</id>
+    <link href="https://lesdoigtsdehors.org/jsldd49.html" />
+    <summary>JSLDD #49 édition Fontainebleau.js c'est le 26 mars 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-03-26T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #48 édition Bibalakas.js</title>
+    <id>48</id>
+    <link href="https://lesdoigtsdehors.org/jsldd48.html" />
+    <summary>JSLDD #48 édition Bibalakas.js c'est le 26 février 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2018-02-26T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #47 édition Cîteaux.js</title>
+    <id>47</id>
+    <link href="https://lesdoigtsdehors.org/jsldd47.html" />
+    <summary>JSLDD #47 édition Cîteaux.js c'est le 11 décembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-12-11T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #46 édition Munster.js</title>
+    <id>46</id>
+    <link href="https://lesdoigtsdehors.org/jsldd46.html" />
+    <summary>JSLDD #46 édition Munster.js c'est le 13 novembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-11-13T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #45 édition Brie.js</title>
+    <id>45</id>
+    <link href="https://lesdoigtsdehors.org/jsldd45.html" />
+    <summary>JSLDD #45 édition Brie.js c'est le 16 octobre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-10-16T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #44 édition Cheddar.js</title>
+    <id>44</id>
+    <link href="https://lesdoigtsdehors.org/jsldd44.html" />
+    <summary>JSLDD #44 édition Cheddar.js c'est le 18 septembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-09-18T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #43 édition Pouligny.js</title>
+    <id>43</id>
+    <link href="https://lesdoigtsdehors.org/jsldd43.html" />
+    <summary>JSLDD #43 édition Pouligny.js c'est le 12 juin 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-06-12T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #42 édition Bethmale.js</title>
+    <id>42</id>
+    <link href="https://lesdoigtsdehors.org/jsldd42.html" />
+    <summary>JSLDD #42 édition Bethmale.js c'est le 15 mai 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-05-15T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #41 édition Valençay.js</title>
+    <id>41</id>
+    <link href="https://lesdoigtsdehors.org/jsldd41.html" />
+    <summary>JSLDD #41 édition Valençay.js c'est le 03 avril 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-04-03T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #40 édition Stilton.js</title>
+    <id>40</id>
+    <link href="https://lesdoigtsdehors.org/jsldd40.html" />
+    <summary>JSLDD #40 édition Stilton.js c'est le 06 mars 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-03-06T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #39 édition Cœur d'Arras.js</title>
+    <id>39</id>
+    <link href="https://lesdoigtsdehors.org/jsldd39.html" />
+    <summary>JSLDD #39 édition Cœur d'Arras.js c'est le 06 février 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2017-02-06T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #38 édition BouletteAvesnes.js</title>
+    <id>38</id>
+    <link href="https://lesdoigtsdehors.org/jsldd38.html" />
+    <summary>JSLDD #38 édition BouletteAvesnes.js c'est le 05 décembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-12-05T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #37 édition Cheesecake.js</title>
+    <id>37</id>
+    <link href="https://lesdoigtsdehors.org/jsldd37.html" />
+    <summary>JSLDD #37 édition Cheesecake.js c'est le 07 novembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-11-07T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #36 édition Ricotta.js</title>
+    <id>36</id>
+    <link href="https://lesdoigtsdehors.org/jsldd36.html" />
+    <summary>JSLDD #36 édition Ricotta.js c'est le 10 octobre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-10-10T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #35 édition Laguiole.js</title>
+    <id>35</id>
+    <link href="https://lesdoigtsdehors.org/jsldd35.html" />
+    <summary>JSLDD #35 édition Laguiole.js c'est le 05 septembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-09-05T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #34 édition Bergenost.js</title>
+    <id>34</id>
+    <link href="https://lesdoigtsdehors.org/jsldd34.html" />
+    <summary>JSLDD #34 édition Bergenost.js c'est le 04 juillet 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-07-04T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #33 édition Montatimu.js</title>
+    <id>33</id>
+    <link href="https://lesdoigtsdehors.org/jsldd33.html" />
+    <summary>JSLDD #33 édition Montatimu.js c'est le 06 juin 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris</summary>
+    <updated>2016-06-06T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #32 édition Edam.js</title>
+    <id>32</id>
+    <link href="https://lesdoigtsdehors.org/jsldd32.html" />
+    <summary>JSLDD #32 édition Edam.js c'est le 02 mai 2016 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2016-05-02T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #31 édition Langres.js</title>
+    <id>31</id>
+    <link href="https://lesdoigtsdehors.org/jsldd31.html" />
+    <summary>JSLDD #31 édition Langres.js c'est le 04 avril 2016 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2016-04-04T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #30 édition Montdor.js</title>
+    <id>30</id>
+    <link href="https://lesdoigtsdehors.org/jsldd30.html" />
+    <summary>JSLDD #30 édition Montdor.js c'est le 14 mars 2016 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2016-03-14T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #29 édition Roquefort.js</title>
+    <id>29</id>
+    <link href="https://lesdoigtsdehors.org/jsldd29.html" />
+    <summary>JSLDD #29 édition Roquefort.js c'est le 08 février 2016 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2016-02-08T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #28 édition Maasdam.js</title>
+    <id>28</id>
+    <link href="https://lesdoigtsdehors.org/jsldd28.html" />
+    <summary>JSLDD #28 édition Maasdam.js c'est le 14 décembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-12-14T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #27 édition Faisselle.js</title>
+    <id>27</id>
+    <link href="https://lesdoigtsdehors.org/jsldd27.html" />
+    <summary>JSLDD #27 édition Faisselle.js c'est le 02 novembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-11-02T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #26 édition Époisses.js</title>
+    <id>26</id>
+    <link href="https://lesdoigtsdehors.org/jsldd26.html" />
+    <summary>JSLDD #26 édition Époisses.js c'est le 28 septembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-09-28T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #25 édition SaintMarcellin.js</title>
+    <id>25</id>
+    <link href="https://lesdoigtsdehors.org/jsldd25.html" />
+    <summary>JSLDD #25 édition SaintMarcellin.js c'est le 26 août 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-08-26T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #24 édition Mozzarella.js</title>
+    <id>24</id>
+    <link href="https://lesdoigtsdehors.org/jsldd24.html" />
+    <summary>JSLDD #24 édition Mozzarella.js c'est le 07 juillet 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-07-07T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #23 édition Bargkass.js</title>
+    <id>23</id>
+    <link href="https://lesdoigtsdehors.org/jsldd23.html" />
+    <summary>JSLDD #23 édition Bargkass.js c'est le 10 juin 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-06-10T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #22 édition Tomme.js</title>
+    <id>22</id>
+    <link href="https://lesdoigtsdehors.org/jsldd22.html" />
+    <summary>JSLDD #22 édition Tomme.js c'est le 12 mai 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-05-12T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #21 édition Chavignol.js</title>
+    <id>21</id>
+    <link href="https://lesdoigtsdehors.org/jsldd21.html" />
+    <summary>JSLDD #21 édition Chavignol.js c'est le 22 avril 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-04-22T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #20 édition Livarot.js</title>
+    <id>20</id>
+    <link href="https://lesdoigtsdehors.org/jsldd20.html" />
+    <summary>JSLDD #20 édition Livarot.js c'est le 10 mars 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-03-10T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #19 édition Soumaintrain.js</title>
+    <id>19</id>
+    <link href="https://lesdoigtsdehors.org/jsldd19.html" />
+    <summary>JSLDD #19 édition Soumaintrain.js c'est le 18 février 2015 chez Stormz, 54 rue René Boulanger, 75010 Paris</summary>
+    <updated>2015-02-18T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #18 édition Pélardon.js</title>
+    <id>18</id>
+    <link href="https://lesdoigtsdehors.org/jsldd18.html" />
+    <summary>JSLDD #18 édition Pélardon.js c'est le 13 janvier 2015 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2015-01-13T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #17 édition Mimolette.js</title>
+    <id>17</id>
+    <link href="https://lesdoigtsdehors.org/jsldd17.html" />
+    <summary>JSLDD #17 édition Mimolette.js c'est le 10 décembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-12-10T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #16 édition Niolo.js</title>
+    <id>16</id>
+    <link href="https://lesdoigtsdehors.org/jsldd16.html" />
+    <summary>JSLDD #16 édition Niolo.js c'est le 05 novembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-11-05T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #15 édition Salers.js</title>
+    <id>15</id>
+    <link href="https://lesdoigtsdehors.org/jsldd15.html" />
+    <summary>JSLDD #15 édition Salers.js c'est le 24 septembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-09-24T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #14 édition Gaperon.js</title>
+    <id>14</id>
+    <link href="https://lesdoigtsdehors.org/jsldd14.html" />
+    <summary>JSLDD #14 édition Gaperon.js c'est le 09 juillet 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-07-09T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #13 édition Cancoillotte.js</title>
+    <id>13</id>
+    <link href="https://lesdoigtsdehors.org/jsldd13.html" />
+    <summary>JSLDD #13 édition Cancoillotte.js c'est le 16 juin 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-06-16T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #12 édition Brocciu.js</title>
+    <id>12</id>
+    <link href="https://lesdoigtsdehors.org/jsldd12.html" />
+    <summary>JSLDD #12 édition Brocciu.js c'est le 19 mai 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-05-19T17:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #11 édition Morbier.js</title>
+    <id>11</id>
+    <link href="https://lesdoigtsdehors.org/jsldd11.html" />
+    <summary>JSLDD #11 édition Morbier.js c'est le 26 mars 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-03-26T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #10 édition Foudjou.js</title>
+    <id>10</id>
+    <link href="https://lesdoigtsdehors.org/jsldd10.html" />
+    <summary>JSLDD #10 édition Foudjou.js c'est le 26 février 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-02-26T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #9 édition Jefou.js</title>
+    <id>9</id>
+    <link href="https://lesdoigtsdehors.org/jsldd9.html" />
+    <summary>JSLDD #9 édition Jefou.js c'est le 29 janvier 2014 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2014-01-29T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #8 édition Délice d'Argental.js</title>
+    <id>8</id>
+    <link href="https://lesdoigtsdehors.org/jsldd8.html" />
+    <summary>JSLDD #8 édition Délice d'Argental.js c'est le 11 décembre 2013 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2013-12-11T18:00:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #7 édition Neuchâtel.js</title>
+    <id>7</id>
+    <link href="https://lesdoigtsdehors.org/jsldd7.html" />
+    <summary>JSLDD #7 édition Neuchâtel.js c'est le 20 novembre 2013 chez /ut7, 82 rue du Caire, 75002 Paris</summary>
+    <updated>2013-11-20T17:30:00.000Z</updated>
+  </entry>
+  
+  <entry>
+    <title>JSLDD #6 édition Chaource.js</title>
+    <id>6</id>
+    <link href="https://lesdoigtsdehors.org/jsldd6.html" />
+    <summary>JSLDD #6 édition Chaource.js c'est le 11 septembre 2013 chez mozilla</summary>
+    <updated>2013-09-11T17:00:00.000Z</updated>
+  </entry>
+  
+</feed>

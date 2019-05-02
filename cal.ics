@@ -1,0 +1,567 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+LDD (ex JSLDD)
+
+BEGIN:VEVENT
+UID:6
+DTSTART:20190527T170000Z
+DTSTAMP:20190527T170000Z
+DURATION:PT3H
+SUMMARY:LDD #6 édition Raclette
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #6 édition Raclette c'est le 27 mai 2019 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd6.html
+URL:https://lesdoigtsdehors.org/ldd6.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5
+DTSTART:20181022T170000Z
+DTSTAMP:20181022T170000Z
+DURATION:PT3H
+SUMMARY:LDD #5 édition Bergues
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #5 édition Bergues c'est le 22 octobre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd5.html
+URL:https://lesdoigtsdehors.org/ldd5.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4
+DTSTART:20181002T170000Z
+DTSTAMP:20181002T170000Z
+DURATION:PT3H
+SUMMARY:LDD #4 édition Emmental
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #4 édition Emmental c'est le 02 octobre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd4.html
+URL:https://lesdoigtsdehors.org/ldd4.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3
+DTSTART:20180917T170000Z
+DTSTAMP:20180917T170000Z
+DURATION:PT3H
+SUMMARY:LDD #3 édition Fouchtra
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #3 édition Fouchtra c'est le 17 septembre 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd3.html
+URL:https://lesdoigtsdehors.org/ldd3.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2
+DTSTART:20180827T170000Z
+DTSTAMP:20180827T170000Z
+DURATION:PT3H
+SUMMARY:LDD #2 édition Chèvreton
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #2 édition Chèvreton c'est le 27 août 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd2.html
+URL:https://lesdoigtsdehors.org/ldd2.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1
+DTSTART:20180723T170000Z
+DTSTAMP:20180723T170000Z
+DURATION:PT3H
+SUMMARY:LDD #1 édition Rouelle
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:LDD #1 édition Rouelle c'est le 23 juillet 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/ldd1.html
+URL:https://lesdoigtsdehors.org/ldd1.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:50
+DTSTART:20180423T170000Z
+DTSTAMP:20180423T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #50 édition Maroilles.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #50 édition Maroilles.js c'est le 23 avril 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd50.html
+URL:https://lesdoigtsdehors.org/jsldd50.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:49
+DTSTART:20180326T170000Z
+DTSTAMP:20180326T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #49 édition Fontainebleau.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #49 édition Fontainebleau.js c'est le 26 mars 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd49.html
+URL:https://lesdoigtsdehors.org/jsldd49.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:48
+DTSTART:20180226T180000Z
+DTSTAMP:20180226T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #48 édition Bibalakas.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #48 édition Bibalakas.js c'est le 26 février 2018 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd48.html
+URL:https://lesdoigtsdehors.org/jsldd48.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:47
+DTSTART:20171211T180000Z
+DTSTAMP:20171211T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #47 édition Cîteaux.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #47 édition Cîteaux.js c'est le 11 décembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd47.html
+URL:https://lesdoigtsdehors.org/jsldd47.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:46
+DTSTART:20171113T180000Z
+DTSTAMP:20171113T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #46 édition Munster.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #46 édition Munster.js c'est le 13 novembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd46.html
+URL:https://lesdoigtsdehors.org/jsldd46.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:45
+DTSTART:20171016T170000Z
+DTSTAMP:20171016T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #45 édition Brie.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #45 édition Brie.js c'est le 16 octobre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd45.html
+URL:https://lesdoigtsdehors.org/jsldd45.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:44
+DTSTART:20170918T170000Z
+DTSTAMP:20170918T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #44 édition Cheddar.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #44 édition Cheddar.js c'est le 18 septembre 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd44.html
+URL:https://lesdoigtsdehors.org/jsldd44.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:43
+DTSTART:20170612T170000Z
+DTSTAMP:20170612T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #43 édition Pouligny.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #43 édition Pouligny.js c'est le 12 juin 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd43.html
+URL:https://lesdoigtsdehors.org/jsldd43.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:42
+DTSTART:20170515T170000Z
+DTSTAMP:20170515T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #42 édition Bethmale.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #42 édition Bethmale.js c'est le 15 mai 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd42.html
+URL:https://lesdoigtsdehors.org/jsldd42.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:41
+DTSTART:20170403T170000Z
+DTSTAMP:20170403T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #41 édition Valençay.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #41 édition Valençay.js c'est le 03 avril 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd41.html
+URL:https://lesdoigtsdehors.org/jsldd41.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:40
+DTSTART:20170306T180000Z
+DTSTAMP:20170306T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #40 édition Stilton.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #40 édition Stilton.js c'est le 06 mars 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd40.html
+URL:https://lesdoigtsdehors.org/jsldd40.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:39
+DTSTART:20170206T180000Z
+DTSTAMP:20170206T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #39 édition Cœur d'Arras.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #39 édition Cœur d'Arras.js c'est le 06 février 2017 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd39.html
+URL:https://lesdoigtsdehors.org/jsldd39.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:38
+DTSTART:20161205T180000Z
+DTSTAMP:20161205T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #38 édition BouletteAvesnes.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #38 édition BouletteAvesnes.js c'est le 05 décembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd38.html
+URL:https://lesdoigtsdehors.org/jsldd38.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:37
+DTSTART:20161107T180000Z
+DTSTAMP:20161107T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #37 édition Cheesecake.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #37 édition Cheesecake.js c'est le 07 novembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd37.html
+URL:https://lesdoigtsdehors.org/jsldd37.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36
+DTSTART:20161010T170000Z
+DTSTAMP:20161010T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #36 édition Ricotta.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #36 édition Ricotta.js c'est le 10 octobre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd36.html
+URL:https://lesdoigtsdehors.org/jsldd36.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:35
+DTSTART:20160905T170000Z
+DTSTAMP:20160905T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #35 édition Laguiole.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #35 édition Laguiole.js c'est le 05 septembre 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd35.html
+URL:https://lesdoigtsdehors.org/jsldd35.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:34
+DTSTART:20160704T170000Z
+DTSTAMP:20160704T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #34 édition Bergenost.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #34 édition Bergenost.js c'est le 04 juillet 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd34.html
+URL:https://lesdoigtsdehors.org/jsldd34.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:33
+DTSTART:20160606T170000Z
+DTSTAMP:20160606T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #33 édition Montatimu.js
+LOCATION:/ut7, 14 avenue Ledru-Rollin, 75012 Paris
+DESCRIPTION:JSLDD #33 édition Montatimu.js c'est le 06 juin 2016 chez /ut7, 14 avenue Ledru-Rollin, 75012 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd33.html
+URL:https://lesdoigtsdehors.org/jsldd33.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:32
+DTSTART:20160502T170000Z
+DTSTAMP:20160502T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #32 édition Edam.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #32 édition Edam.js c'est le 02 mai 2016 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd32.html
+URL:https://lesdoigtsdehors.org/jsldd32.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:31
+DTSTART:20160404T170000Z
+DTSTAMP:20160404T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #31 édition Langres.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #31 édition Langres.js c'est le 04 avril 2016 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd31.html
+URL:https://lesdoigtsdehors.org/jsldd31.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:30
+DTSTART:20160314T180000Z
+DTSTAMP:20160314T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #30 édition Montdor.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #30 édition Montdor.js c'est le 14 mars 2016 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd30.html
+URL:https://lesdoigtsdehors.org/jsldd30.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:29
+DTSTART:20160208T180000Z
+DTSTAMP:20160208T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #29 édition Roquefort.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #29 édition Roquefort.js c'est le 08 février 2016 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd29.html
+URL:https://lesdoigtsdehors.org/jsldd29.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:28
+DTSTART:20151214T180000Z
+DTSTAMP:20151214T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #28 édition Maasdam.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #28 édition Maasdam.js c'est le 14 décembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd28.html
+URL:https://lesdoigtsdehors.org/jsldd28.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:27
+DTSTART:20151102T180000Z
+DTSTAMP:20151102T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #27 édition Faisselle.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #27 édition Faisselle.js c'est le 02 novembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd27.html
+URL:https://lesdoigtsdehors.org/jsldd27.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:26
+DTSTART:20150928T170000Z
+DTSTAMP:20150928T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #26 édition Époisses.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #26 édition Époisses.js c'est le 28 septembre 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd26.html
+URL:https://lesdoigtsdehors.org/jsldd26.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:25
+DTSTART:20150826T170000Z
+DTSTAMP:20150826T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #25 édition SaintMarcellin.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #25 édition SaintMarcellin.js c'est le 26 août 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd25.html
+URL:https://lesdoigtsdehors.org/jsldd25.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:24
+DTSTART:20150707T170000Z
+DTSTAMP:20150707T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #24 édition Mozzarella.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #24 édition Mozzarella.js c'est le 07 juillet 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd24.html
+URL:https://lesdoigtsdehors.org/jsldd24.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:23
+DTSTART:20150610T170000Z
+DTSTAMP:20150610T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #23 édition Bargkass.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #23 édition Bargkass.js c'est le 10 juin 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd23.html
+URL:https://lesdoigtsdehors.org/jsldd23.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:22
+DTSTART:20150512T170000Z
+DTSTAMP:20150512T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #22 édition Tomme.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #22 édition Tomme.js c'est le 12 mai 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd22.html
+URL:https://lesdoigtsdehors.org/jsldd22.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:21
+DTSTART:20150422T170000Z
+DTSTAMP:20150422T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #21 édition Chavignol.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #21 édition Chavignol.js c'est le 22 avril 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd21.html
+URL:https://lesdoigtsdehors.org/jsldd21.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20
+DTSTART:20150310T180000Z
+DTSTAMP:20150310T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #20 édition Livarot.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #20 édition Livarot.js c'est le 10 mars 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd20.html
+URL:https://lesdoigtsdehors.org/jsldd20.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:19
+DTSTART:20150218T180000Z
+DTSTAMP:20150218T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #19 édition Soumaintrain.js
+LOCATION:Stormz, 54 rue René Boulanger, 75010 Paris
+DESCRIPTION:JSLDD #19 édition Soumaintrain.js c'est le 18 février 2015 chez Stormz, 54 rue René Boulanger, 75010 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd19.html
+URL:https://lesdoigtsdehors.org/jsldd19.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:18
+DTSTART:20150113T180000Z
+DTSTAMP:20150113T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #18 édition Pélardon.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #18 édition Pélardon.js c'est le 13 janvier 2015 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd18.html
+URL:https://lesdoigtsdehors.org/jsldd18.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:17
+DTSTART:20141210T180000Z
+DTSTAMP:20141210T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #17 édition Mimolette.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #17 édition Mimolette.js c'est le 10 décembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd17.html
+URL:https://lesdoigtsdehors.org/jsldd17.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:16
+DTSTART:20141105T180000Z
+DTSTAMP:20141105T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #16 édition Niolo.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #16 édition Niolo.js c'est le 05 novembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd16.html
+URL:https://lesdoigtsdehors.org/jsldd16.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15
+DTSTART:20140924T170000Z
+DTSTAMP:20140924T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #15 édition Salers.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #15 édition Salers.js c'est le 24 septembre 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd15.html
+URL:https://lesdoigtsdehors.org/jsldd15.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:14
+DTSTART:20140709T170000Z
+DTSTAMP:20140709T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #14 édition Gaperon.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #14 édition Gaperon.js c'est le 09 juillet 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd14.html
+URL:https://lesdoigtsdehors.org/jsldd14.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:13
+DTSTART:20140616T170000Z
+DTSTAMP:20140616T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #13 édition Cancoillotte.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #13 édition Cancoillotte.js c'est le 16 juin 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd13.html
+URL:https://lesdoigtsdehors.org/jsldd13.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:12
+DTSTART:20140519T170000Z
+DTSTAMP:20140519T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #12 édition Brocciu.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #12 édition Brocciu.js c'est le 19 mai 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd12.html
+URL:https://lesdoigtsdehors.org/jsldd12.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:11
+DTSTART:20140326T180000Z
+DTSTAMP:20140326T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #11 édition Morbier.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #11 édition Morbier.js c'est le 26 mars 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd11.html
+URL:https://lesdoigtsdehors.org/jsldd11.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10
+DTSTART:20140226T180000Z
+DTSTAMP:20140226T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #10 édition Foudjou.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #10 édition Foudjou.js c'est le 26 février 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd10.html
+URL:https://lesdoigtsdehors.org/jsldd10.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9
+DTSTART:20140129T180000Z
+DTSTAMP:20140129T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #9 édition Jefou.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #9 édition Jefou.js c'est le 29 janvier 2014 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd9.html
+URL:https://lesdoigtsdehors.org/jsldd9.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8
+DTSTART:20131211T180000Z
+DTSTAMP:20131211T180000Z
+DURATION:PT3H
+SUMMARY:JSLDD #8 édition Délice d'Argental.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #8 édition Délice d'Argental.js c'est le 11 décembre 2013 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd8.html
+URL:https://lesdoigtsdehors.org/jsldd8.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7
+DTSTART:20131120T173000Z
+DTSTAMP:20131120T173000Z
+DURATION:PT3H
+SUMMARY:JSLDD #7 édition Neuchâtel.js
+LOCATION:/ut7, 82 rue du Caire, 75002 Paris
+DESCRIPTION:JSLDD #7 édition Neuchâtel.js c'est le 20 novembre 2013 chez /ut7, 82 rue du Caire, 75002 Paris. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd7.html
+URL:https://lesdoigtsdehors.org/jsldd7.html
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6
+DTSTART:20130911T170000Z
+DTSTAMP:20130911T170000Z
+DURATION:PT3H
+SUMMARY:JSLDD #6 édition Chaource.js
+LOCATION:mozilla
+DESCRIPTION:JSLDD #6 édition Chaource.js c'est le 11 septembre 2013 chez mozilla. Pour s'inscrire: https://lesdoigtsdehors.org/jsldd6.html
+URL:https://lesdoigtsdehors.org/jsldd6.html
+END:VEVENT
+
+END:VCALENDAR
